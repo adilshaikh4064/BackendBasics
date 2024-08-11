@@ -2,14 +2,18 @@
   "name": "backend-basics",
   "version": "1.0.0",
   "description": "a full fledged learning of backend development",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "echo \"nodemon src/index.js"
   },
   "keywords": [
     "backend",
     "javascript"
   ],
   "author": "adil shaikh",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
