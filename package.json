@@ -1,0 +1,15 @@
+{
+  "name": "backend-basics",
+  "version": "1.0.0",
+  "description": "a full fledged learning of backend development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "javascript"
+  ],
+  "author": "adil shaikh",
+  "license": "ISC"
+}
